@@ -4,7 +4,7 @@ import json
 from button import InlineKeyboardButton,KeyboardButton
 
 
-bot = telebot.TeleBot("6563026061:AAF42KjeCM4q3px687duhkOQknKFl-DFVOY")
+bot = telebot.TeleBot("BOT_TOKEN")
 
 # json faylga ma'lumot qo'shish
 def royxatdan_otish(message):
